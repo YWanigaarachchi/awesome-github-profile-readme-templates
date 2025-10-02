@@ -1,4 +1,5 @@
-Awesome GitHub Profile README Template Collection
+Awesome GitHub Profile README Template Collection.
+
 GitHub stars GitHub forks GitHub contributors
 
 A collection of GitHub profile README's examples.
